@@ -14,7 +14,8 @@ https://github.com/juaneortiz1/taller01-ARSW.git
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/fdaed66f-7086-4ee8-9e3e-d9f5e4624df1)
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/56d1694b-8d10-49ce-a8fa-0eff54cd5223)
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/f8715fb1-dac9-4219-aae5-e81c7070769f)
-![img.png](img.png)
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/005f30b5-3440-413e-bb08-fa8e155a1dc7)
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/615f4511-a11b-412d-bf51-1bc3c58c6fb3)
+![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/a574821e-0c3f-42b0-aa48-97708a37068e)
+![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/32dceb4d-8a98-408e-8ab1-1380ee8c87ed)
 

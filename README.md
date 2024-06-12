@@ -43,12 +43,15 @@ Once our .jar is created as we see, and we can execute the next command to check
 ```sh
 java -cp target/mi-primera-app-1.0-SNAPSHOT.jar edu.escuelaing.arsw.ASE.app.App
 ```
-![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/3bf33c50-6aad-4f3d-b214-6ccd765c2f0f)
-
-![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/4a68e18b-75da-4d91-b0d7-7ae373e4fb84)
+### Generating Javadoc
+We update our pom.xml so we can add javadoc plugin 
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/0b2cf00f-e1fc-4d92-8ddb-ebb5b0a79051)
+After this we use the next commands to generate and package Javadoc:
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/938d6204-6783-4f91-b624-06b8747240a9)
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/fdaed66f-7086-4ee8-9e3e-d9f5e4624df1)
+```sh
+java -cp target/mi-primera-app-1.0-SNAPSHOT.jar edu.escuelaing.arsw.ASE.app.App
+```
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/56d1694b-8d10-49ce-a8fa-0eff54cd5223)
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/f8715fb1-dac9-4219-aae5-e81c7070769f)
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/005f30b5-3440-413e-bb08-fa8e155a1dc7)

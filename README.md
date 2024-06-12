@@ -1,4 +1,19 @@
 https://github.com/juaneortiz1/taller01-ARSW.git
+# Maven WebApp
+
+This project is a simple web application built using Maven.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+You need to have Java installed (7 or 8). Verify your Java installation with:
+
+```sh
+java -version
+```
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/79bc5001-7759-4c98-8774-8957ce897361)
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/29695be0-b817-4c3f-afcd-493a42ffe908)
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/57eb9165-8dfe-4b1d-83f0-1a819a1d6e9c)

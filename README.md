@@ -88,4 +88,12 @@ echo '# TODO: Copiar los contenidos de https://github.com/github/gitignore/blob/
 Modify your .gitignore file to ignore the target, idea directory and also some files associated with junk:
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/a574821e-0c3f-42b0-aa48-97708a37068e)
 
+## Build with
+
+* [Maven](https://maven.apache.org/) - Dependency manager
+* [Java](https://www.oracle.com/java/technologies/) - Programming Language
+
+## Authors
+
+* Juan Esteban Ortiz
 

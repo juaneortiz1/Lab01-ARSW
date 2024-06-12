@@ -53,9 +53,39 @@ After this we use the next commands to generate and package Javadoc:
 java -cp target/mi-primera-app-1.0-SNAPSHOT.jar edu.escuelaing.arsw.ASE.app.App
 ```
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/56d1694b-8d10-49ce-a8fa-0eff54cd5223)
+### Creating a Git Repository
+In the project directory, run:
+```sh
+git init
+```
+### Adding Files to Version Control
+Use the add command:
+```sh
+git add pom.xml
+git status
+```
+### Working with Remote Repositories
+To add a new remote repository, run:
+```sh
+git remote add origin https://github.com/dnielben/miprimerrep.git
+```
+We push to our local repository to the remote repository with:
+```sh
+git push -u origin master
+```
+we check the status of our repository and we get
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/f8715fb1-dac9-4219-aae5-e81c7070769f)
+### Adding More Files
+It's recommended to create a README, LICENSE, and .gitignore file:
+```sh
+echo 'Mi primer proyecto' > README.txt
+echo 'TODO: Copiar el texto de la licencia http://www.gnu.org/licenses/gpl.html' > LICENSE.txt
+echo '# TODO: Copiar los contenidos de https://github.com/github/gitignore/blob/master/Java.gitignore' > .gitignore
+```
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/005f30b5-3440-413e-bb08-fa8e155a1dc7)
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/615f4511-a11b-412d-bf51-1bc3c58c6fb3)
+### Ignoring Files
+Modify your .gitignore file to ignore the target, idea directory and also some files associated with junk:
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/a574821e-0c3f-42b0-aa48-97708a37068e)
-![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/32dceb4d-8a98-408e-8ab1-1380ee8c87ed)
+
 

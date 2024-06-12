@@ -15,14 +15,33 @@ You need to have Java installed (7 or 8). Verify your Java installation with:
 java -version
 ```
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/79bc5001-7759-4c98-8774-8957ce897361)
+Follow the instructions at Maven Installation Guide to install Maven. To verify Maven installation, run:
+```sh
+mvn -version
+```
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/29695be0-b817-4c3f-afcd-493a42ffe908)
+### Installing
+A step-by-step guide to set up the development environment:
+
+Open a shell and navigate to the directory where you want to store your projects.
+Create a new Maven project using the quickstart archetype:
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/57eb9165-8dfe-4b1d-83f0-1a819a1d6e9c)
+### Project Structure
+Your project directory will look like this:
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/1763d4f0-f47e-4967-8ea9-e32687c1b9d9)
+### Sample Code
+We make a little test with our App.java class
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/cc631bc8-ff45-4c4e-a925-fab452cd771e)
+pom.xml
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/dca5162f-fde4-40ad-94f6-8a57e95615dc)
-![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/90abbdfd-9936-43d6-ba65-bc1a5efb93b9)
+As we package our project with the next command
+```sh
+mvn package
+```
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/b682b061-5aec-4bfd-8232-0811d02aaca2)
+Once our .jar is created as we see
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/3bf33c50-6aad-4f3d-b214-6ccd765c2f0f)
+
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/4a68e18b-75da-4d91-b0d7-7ae373e4fb84)
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/0b2cf00f-e1fc-4d92-8ddb-ebb5b0a79051)
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/938d6204-6783-4f91-b624-06b8747240a9)

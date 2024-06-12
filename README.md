@@ -39,7 +39,10 @@ As we package our project with the next command
 mvn package
 ```
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/b682b061-5aec-4bfd-8232-0811d02aaca2)
-Once our .jar is created as we see
+Once our .jar is created as we see, and we can execute the next command to check our App
+```sh
+java -cp target/mi-primera-app-1.0-SNAPSHOT.jar edu.escuelaing.arsw.ASE.app.App
+```
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/3bf33c50-6aad-4f3d-b214-6ccd765c2f0f)
 
 ![image](https://github.com/juaneortiz1/taller01-ARSW/assets/97971732/4a68e18b-75da-4d91-b0d7-7ae373e4fb84)
